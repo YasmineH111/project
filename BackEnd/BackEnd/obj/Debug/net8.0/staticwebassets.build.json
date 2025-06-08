@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "fZ+46Nzn25SzGYCH7sYCHy6fMdEFjrC5g0/jupUpQL8=",
+  "Source": "BackEnd",
+  "BasePath": "_content/BackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BackEnd\\wwwroot",
+      "Source": "BackEnd",
+      "ContentRoot": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\",
+      "BasePath": "_content/BackEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

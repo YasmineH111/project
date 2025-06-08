@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAALZxOYqF0zEyAiHbtL0MFawAAAAACAAAAAAAQZgAAAAEAACAAAAAw0xTKOZ6KX/NXgruEuW9EAfKcvRMSVQt4ZVHbDky91wAAAAAOgAAAAAIAACAAAACiBgqwO/jeiBr7zNkzOcyTwABw2qBQtJbt7H5ppmJqqRAAAAAIM9Q4oEbGTI8yvXg3YJ3tQAAAAGKgOkl3ExxsM62Cpe1COJPnpP6W49fgighoPd4oFQRRc59xHl6VlA1fJSu2cysI0Le41ys6pP6Z1oOYCHre99M=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://EscapeRoom.somee.com/www.EscapeRoom.somee.com</_PublishTargetUrl>
+    <History>True|2024-12-20T14:42:43.7948099Z||;False|2024-12-20T16:38:16.1007515+02:00||;True|2024-12-20T16:34:43.1984730+02:00||;True|2024-12-20T16:26:57.9715380+02:00||;False|2024-12-20T16:22:54.8961409+02:00||;False|2024-12-20T16:21:41.2503689+02:00||;True|2024-12-20T16:07:52.4532904+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/20/2024 12:59:14</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/20/2024 16:01:16</publishTime>
+    </File>
+    <File Include="Azure.Core.dll">
+      <publishTime>06/30/2022 21:28:36</publishTime>
+    </File>
+    <File Include="Azure.Identity.dll">
+      <publishTime>09/19/2022 22:31:34</publishTime>
+    </File>
+    <File Include="BackEnd.deps.json">
+      <publishTime>12/20/2024 16:39:06</publishTime>
+    </File>
+    <File Include="BackEnd.dll">
+      <publishTime>12/20/2024 16:39:05</publishTime>
+    </File>
+    <File Include="BackEnd.exe">
+      <publishTime>12/20/2024 16:39:05</publishTime>
+    </File>
+    <File Include="BackEnd.pdb">
+      <publishTime>12/20/2024 16:39:05</publishTime>
+    </File>
+    <File Include="BackEnd.runtimeconfig.json">
+      <publishTime>12/20/2024 16:03:31</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>01/11/2023 03:08:28</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll">
+      <publishTime>01/11/2023 03:07:56</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/23/2021 01:47:36</publishTime>
+    </File>
+    <File Include="Microsoft.Data.SqlClient.dll">
+      <publishTime>03/28/2023 07:28:24</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>01/11/2023 00:15:22</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>01/11/2023 00:15:58</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>01/11/2023 00:16:48</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <publishTime>01/11/2023 00:16:56</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.dll">
+      <publishTime>03/10/2022 19:40:38</publishTime>
+    </File>
+    <File Include="Microsoft.Identity.Client.Extensions.Msal.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>10/17/2023 05:20:50</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/17/2023 04:54:08</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/17/2023 04:56:18</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>10/17/2023 04:57:30</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>10/17/2023 05:06:50</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/17/2023 05:01:34</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 22:14:12</publishTime>
+    </File>
+    <File Include="Microsoft.SqlServer.Server.dll">
+      <publishTime>01/27/2022 19:19:08</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/23/2021 01:40:24</publishTime>
+    </File>
+    <File Include="QRCoder.dll">
+      <publishTime>06/30/2024 13:50:06</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll">
+      <publishTime>03/28/2023 07:28:24</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/net6.0/System.Drawing.Common.dll">
+      <publishTime>10/23/2021 01:51:42</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/13/2023 00:19:36</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/13/2023 00:19:36</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/13/2023 00:19:36</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll">
+      <publishTime>01/13/2023 00:19:36</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll">
+      <publishTime>03/28/2023 07:27:58</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/23/2021 01:40:18</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Drawing.Common.dll">
+      <publishTime>10/23/2021 01:48:10</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Runtime.Caching.dll">
+      <publishTime>10/23/2021 01:52:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>10/23/2021 01:51:04</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net6.0/System.Windows.Extensions.dll">
+      <publishTime>10/23/2021 01:49:58</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 17:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 17:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 17:21:48</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>08/19/2022 21:58:02</publishTime>
+    </File>
+    <File Include="System.Drawing.Common.dll">
+      <publishTime>10/23/2021 01:49:12</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/17/2023 04:52:04</publishTime>
+    </File>
+    <File Include="System.Memory.Data.dll">
+      <publishTime>08/04/2021 18:45:54</publishTime>
+    </File>
+    <File Include="System.Runtime.Caching.dll">
+      <publishTime>10/23/2021 01:52:02</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>10/23/2021 01:51:04</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>10/23/2021 01:49:50</publishTime>
+    </File>
+    <File Include="System.Windows.Extensions.dll">
+      <publishTime>10/23/2021 01:49:44</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>12/20/2024 16:39:06</publishTime>
+    </File>
+    <File Include="wwwroot/qrCodes/b72d0a23-079f-401f-878e-d98ecfc7de4f.png">
+      <publishTime>12/20/2024 15:13:19</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/26dcc669-de9c-4021-9baf-468264c092f6_Mystic Escape.jpg">
+      <publishTime>12/20/2024 12:25:51</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/33239c31-1655-4060-912a-de03683b3c3e_Trapped_CFC_Egypt.jpg">
+      <publishTime>12/20/2024 13:38:29</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/36fbf5ab-dfab-46a4-b18a-723cd8bca6db_kidnapped.jpg">
+      <publishTime>12/20/2024 13:52:04</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/4655aefd-69a3-407e-9179-66b9b734b4b6_Mystic Escape.jpg">
+      <publishTime>12/20/2024 12:30:19</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/6ac1933c-cb07-4046-bc98-9474aa18bd6f_Mystic Escape.jpg">
+      <publishTime>12/20/2024 12:25:46</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/a051eff6-4b15-4a84-b33f-2197a7a992f6_Trapped_CFC_Egypt.jpg">
+      <publishTime>12/20/2024 13:38:29</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/c6ec19d9-120b-4dae-882a-3e64665aa015_kidnapped.jpg">
+      <publishTime>12/20/2024 13:49:33</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/f21e8edc-0acc-43e6-b8fa-1bdae5f560bc_kidnapped.jpg">
+      <publishTime>12/20/2024 13:59:18</publishTime>
+    </File>
+    <File Include="wwwroot/uploads/f27c8a62-087e-4c40-8f5a-9d7e5ed3dcde_Mystic Escape.jpg">
+      <publishTime>12/20/2024 12:30:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

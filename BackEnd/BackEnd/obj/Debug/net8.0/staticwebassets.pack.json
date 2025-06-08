@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\qrCodes\\b72d0a23-079f-401f-878e-d98ecfc7de4f.png",
+      "PackagePath": "staticwebassets\\qrCodes\\b72d0a23-079f-401f-878e-d98ecfc7de4f.png"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\26dcc669-de9c-4021-9baf-468264c092f6_Mystic Escape.jpg",
+      "PackagePath": "staticwebassets\\uploads\\26dcc669-de9c-4021-9baf-468264c092f6_Mystic Escape.jpg"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\33239c31-1655-4060-912a-de03683b3c3e_Trapped_CFC_Egypt.jpg",
+      "PackagePath": "staticwebassets\\uploads\\33239c31-1655-4060-912a-de03683b3c3e_Trapped_CFC_Egypt.jpg"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\36fbf5ab-dfab-46a4-b18a-723cd8bca6db_kidnapped.jpg",
+      "PackagePath": "staticwebassets\\uploads\\36fbf5ab-dfab-46a4-b18a-723cd8bca6db_kidnapped.jpg"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\4655aefd-69a3-407e-9179-66b9b734b4b6_Mystic Escape.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4655aefd-69a3-407e-9179-66b9b734b4b6_Mystic Escape.jpg"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\6ac1933c-cb07-4046-bc98-9474aa18bd6f_Mystic Escape.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6ac1933c-cb07-4046-bc98-9474aa18bd6f_Mystic Escape.jpg"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\a051eff6-4b15-4a84-b33f-2197a7a992f6_Trapped_CFC_Egypt.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a051eff6-4b15-4a84-b33f-2197a7a992f6_Trapped_CFC_Egypt.jpg"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\c6ec19d9-120b-4dae-882a-3e64665aa015_kidnapped.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c6ec19d9-120b-4dae-882a-3e64665aa015_kidnapped.jpg"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\f21e8edc-0acc-43e6-b8fa-1bdae5f560bc_kidnapped.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f21e8edc-0acc-43e6-b8fa-1bdae5f560bc_kidnapped.jpg"
+    },
+    {
+      "Id": "D:\\Graduation projects 2024\\3altare2\\BackEnd\\BackEnd\\wwwroot\\uploads\\f27c8a62-087e-4c40-8f5a-9d7e5ed3dcde_Mystic Escape.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f27c8a62-087e-4c40-8f5a-9d7e5ed3dcde_Mystic Escape.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BackEnd.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BackEnd.props",
+      "PackagePath": "build\\BackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BackEnd.props",
+      "PackagePath": "buildMultiTargeting\\BackEnd.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BackEnd.props",
+      "PackagePath": "buildTransitive\\BackEnd.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
