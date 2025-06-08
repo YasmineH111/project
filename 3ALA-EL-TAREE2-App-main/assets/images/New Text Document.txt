@@ -1,0 +1,18 @@
+driver
+from
+
+..............................
+to
+[log] ----------------------------------------------------------
+[log] {name: Sohag University, Mostashfa Al Gamaah Street, Naser, Suhaj, 82516, Egypt, lat: 26.56483425, lon: 31.70812658}
+[log] ----------------------------------------------------------
+//////////////////////////////////////////////////////////////////////////////////////////
+
+user
+from
+[log] ----------------------------------------------------------
+[log] DestenationModel{name: Cairo, Cairo, Egypt, address: , longitude: 30.0443879, latitude: 31.2357257}
+[log] ----------------------------------------------------------
+....................................................................................................
+to
+[log] DestenationModel{name: Sohag University, Mostashfa Al Gamaah Street, Naser, Suhaj, 82516, Egypt, address: , longitude: 26.56483425, latitude: 31.70812658}

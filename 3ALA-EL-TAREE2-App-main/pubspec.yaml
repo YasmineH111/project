@@ -1,0 +1,58 @@
+name: cabify
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  another_flushbar: ^1.12.30
+  badges: ^3.1.2
+  connectivity_plus: ^6.1.0
+  cupertino_icons: ^1.0.8
+  dartz: ^0.10.1
+  dio: ^5.7.0
+  equatable: ^2.0.5
+  firebase_auth: ^5.3.2
+  firebase_core: ^3.7.0
+  firebase_messaging: ^15.1.4
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_google_maps_webservices: ^1.1.1
+  flutter_google_places_sdk: ^0.3.10
+  flutter_local_notifications: ^18.0.1
+  flutter_otp_text_field: ^1.2.0
+  flutter_rating_bar: ^4.0.1
+  flutter_screenutil: ^5.9.3
+  flutter_typeahead: ^5.2.0
+  geocoding: ^3.0.0
+  geolocator: ^13.0.2
+  get_it: ^8.0.3
+  glassmorphism: ^3.0.0
+  google_maps_flutter: ^2.10.0
+  google_sign_in: ^6.2.2
+  http: ^1.2.2
+  image_picker: ^1.1.2
+  intl: ^0.20.1
+  like_button: ^2.0.5
+  neumorphic_button: ^0.0.1+2
+  provider: ^6.1.2
+  shared_preferences: ^2.3.3
+  shimmer: ^3.0.0
+  video_player: ^2.9.2
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Adding assets directory
+  assets:
+    - assets/images/
